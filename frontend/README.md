@@ -1,3 +1,32 @@
+**ShelfShare\***
+ShelfShare is a book-swapping application designed to help users exchange books with one another. Built with modern web technologies, it provides a seamless experience for managing book swaps, browsing books, and connecting with other readers.
+
+Technologies Used
+Next.js: A React framework for building server-side rendered and static websites, providing efficient and scalable solutions for frontend development.
+
+JavaScript: The core programming language used for implementing dynamic functionality and interactive features.
+
+CSS: Used for styling the application, ensuring a visually appealing and responsive design.
+
+Material-UI (MUI): A popular React component library used for consistent and customizable UI elements.
+
+MongoDB: A NoSQL database used for storing user data, books, and swap histories.
+
+Vercel: The platform used for deploying and hosting the Next.js frontend application, providing automatic deployments and continuous integration.
+
+Features
+Book Browsing: Users can browse books by various criteria such as genre, author, and location.
+
+Post New Books: Users can add new books to their profile, including details such as title, author, genre, and a brief description.
+
+Book Swapping: Facilitates book exchanges between users, tracking swap details and user interactions.
+
+Manage Swap Requests: Users can check available swap requests, and have the ability to accept or decline them. Notifications and updates are provided for request statuses.
+
+Filtering and Sorting: Advanced filtering and sorting options to help users find books based on their preferences.
+
+User Profiles: Manage user profiles, including book lists, swap history, and personal information.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
